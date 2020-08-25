@@ -1,0 +1,5 @@
+# Define requirements for pip-compile
+# This will generate a requirements.txt for Binder
+
+ipywidgets
+ipycanvas

@@ -15,4 +15,4 @@ Try in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder
 
 2. Click on the fast forward button to run all cells.
 
-[![How To Use](https://github.com/Dommsko/smartiS/img/howto.png)
+[![How To Use](img/howto.png)

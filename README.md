@@ -8,7 +8,7 @@ All rights reserved.
 
 #### Getting started
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dommsko/smartiS/master?urlpath=lab)
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dommsko/smartiS/master?urlpath=lab)
 
 * Select the Jupyter Notebook you want to examine.
 

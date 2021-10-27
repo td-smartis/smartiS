@@ -1,0 +1,49 @@
+64a31a50-e03f-4247-bb82-bc9f2fffbb11,ElektronImFeld,"('a', 'tree', 'b')","10/15/2021, 15:01:51.886199",b_play,True
+64a31a50-e03f-4247-bb82-bc9f2fffbb11,ElektronImFeld,"('a', 'tree', 'b')","10/15/2021, 15:01:55.242584",s_velocity,30.5
+64a31a50-e03f-4247-bb82-bc9f2fffbb11,ElektronImFeld,"('a', 'tree', 'b')","10/15/2021, 15:01:55.295968",s_velocity,77.3
+64a31a50-e03f-4247-bb82-bc9f2fffbb11,ElektronImFeld,"('a', 'tree', 'b')","10/15/2021, 15:01:55.358470",s_velocity,100.0
+64a31a50-e03f-4247-bb82-bc9f2fffbb11,ElektronImFeld,"('a', 'tree', 'b')","10/15/2021, 15:01:56.060473",s_field,-1
+64a31a50-e03f-4247-bb82-bc9f2fffbb11,ElektronImFeld,"('a', 'tree', 'b')","10/15/2021, 15:01:56.129490",s_field,-2
+64a31a50-e03f-4247-bb82-bc9f2fffbb11,ElektronImFeld,"('a', 'tree', 'b')","10/15/2021, 15:01:56.198501",s_field,-8
+64a31a50-e03f-4247-bb82-bc9f2fffbb11,ElektronImFeld,"('a', 'tree', 'b')","10/15/2021, 15:01:57.965841",b_reset,True
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:33.763309",b_play,True
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:34.828634",s_velocity,11.5
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:34.897644",s_velocity,35.7
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:34.966654",s_velocity,54.2
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:35.029153",s_velocity,60.7
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:35.098168",s_velocity,67.9
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:37.050571",s_field,-1
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:37.119619",s_field,-3
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:37.172993",s_field,-4
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:37.304558",s_field,-5
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:37.574110",s_field,-6
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:37.752505",s_field,-7
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:37.937427",s_field,-8
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:38.253841",s_field,-9
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:38.438758",s_field,-10
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:40.159329",b_field,B
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:42.064833",s_field,-1
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:42.133845",s_field,10
+602dc5ae-a563-42d7-8d6a-d0af4e912bb0,ElektronImFeld,"('5', 'tree', '9')","10/15/2021, 15:13:48.104059",b_reset,True
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:22.011630",b_play,True
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:23.778798",s_velocity,2.6
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:23.847817",s_velocity,19.5
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:23.916849",s_velocity,45.3
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:23.979361",s_velocity,54.2
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:24.032748",s_velocity,56.6
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:24.095254",s_velocity,59.9
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:24.164262",s_velocity,65.5
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:25.182709",s_field,-2
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:25.236093",s_field,-6
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:25.483547",s_field,-7
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:25.621594",s_field,-9
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:25.799968",s_field,-10
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:30.297391",s_field,-8
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:30.366393",s_field,-4
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:30.435405",s_field,0
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:30.497905",s_field,1
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:30.566930",s_field,4
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:30.635944",s_field,6
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:30.698457",s_field,7
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:30.751828",s_field,9
+d84cc2bc-916f-4844-9d16-a1b241466199,ElektronImFeld,5,"10/15/2021, 16:56:34.948658",b_reset,True

@@ -1,6 +1,6 @@
 ### smartiS
 
-2020-2022 by Dominik Schäfer
+2020-2022 by Dominik Schäfer & Charlotte Zander
 
 [![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
 

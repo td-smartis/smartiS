@@ -1,8 +1,6 @@
 ### smartiS
 
-Copyright © 2020 by Dominik Schäfer
-
-All rights reserved.
+2020-2022 by Dominik Schäfer
 
 [![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
 
